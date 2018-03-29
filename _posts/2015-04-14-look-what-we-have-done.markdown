@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "你好！长江"
+title:  你好！长江
 date:   2015-04-14 10:52:12
 images: images/@stock/blog-1.jpg
 excerpt:
