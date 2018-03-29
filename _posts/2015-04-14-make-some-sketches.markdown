@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "科技改变生活"
+title:  科技改变生活
 date:   2015-04-14 10:58:12
 images:
   - images/@stock/blog-3.jpg
