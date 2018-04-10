@@ -1,23 +1,23 @@
-- name: Home
+- name: 首页
   path: index.html
   section_id: home
-- name: About
+- name: 关于笨笨
   path: about.html
   section_id: about
-- name: Services
+- name: 贴心服务
   path: services.html
   section_id: services
-- name: Portfolio
+- name: 项目
   path: portfolio.html
   section_id: portfolio
   children:
-    - name: Portfolio
+    - name: 精彩瞬间
       path: portfolio.html
-    - name: Portfolio item
+    - name: 项目施工
       path: portfolio-item.html
-- name: Contact
+- name: 联系笨笨
   path: contact.html
   section_id: contact
-- name: Blog
+- name: 笨笨有观点
   path: blog/
   section_id: blog
