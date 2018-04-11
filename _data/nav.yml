@@ -15,9 +15,9 @@
       path: portfolio.html
     - name: 项目施工
       path: portfolio-item.html
-- name: 联系笨笨
-  path: contact.html
-  section_id: contact
-- name: 笨笨有观点
+ - name: 笨笨有观点
   path: blog/
   section_id: blog
+  - name: 联系笨笨
+  path: contact.html
+  section_id: contact
