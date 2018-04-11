@@ -2,9 +2,9 @@
   name: Mark Wayne
   position: Founder
   socials:
-    - link: http://twitter.com
+    - link: http://baidu.com
       icon: twitter
-    - link: http://facebook.com
+    - link: http://163.com
       icon: facebook
   desc:
     Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetue.
@@ -12,11 +12,11 @@
   name: Kate Holms
   position: Creative Director
   socials:
-    - link: http://twitter.com
+    - link: http://1688.com
       icon: twitter
-    - link: http://facebook.com
+    - link: http://taobao.com
       icon: facebook
-    - link: http://dribbble.com
+    - link: http://sina.com
       icon: dribbble
   desc:
     Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetue.
@@ -24,11 +24,11 @@
   name: Tome Hason
   position: Designer
   socials:
-    - link: http://twitter.com
+    - link: http://baidu.com
       icon: twitter
-    - link: http://facebook.com
+    - link: http://51cto.com
       icon: facebook
-    - link: http://tumblr.com
+    - link: http://bilibili.com
       icon: tumblr
   desc:
     Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetue.
@@ -36,9 +36,9 @@
   name: Lily Whrem
   position: Developer
   socials:
-    - link: http://twitter.com
+    - link: http://baidu.com
       icon: twitter
-    - link: http://facebook.com
+    - link: http://seger.com
       icon: facebook
   desc:
     Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat consectetue.

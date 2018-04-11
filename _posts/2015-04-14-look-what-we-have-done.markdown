@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Look what we have done
-date:   2015-04-14 10:52:12
+title:  笨笨！2018不负好时光！
+date:   2015-04-14 10:52:12
 images: images/@stock/blog-1.jpg
 excerpt:
   Iste neque doloribus dolor quis ad sit dolores dolor sit perferendis. nemo in rerum ducimus possimus aspernatur quas est. dolorem eaque vel id quasi voluptatem eligendi rerum et quo ut. fuga qui ea voluptates sunt
